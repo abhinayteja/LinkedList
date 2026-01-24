@@ -1,5 +1,6 @@
-# LinkedList
-- Create Node
+# LINKED LIST OPERATIONS
+
+- Creation of Linked List
 
 - Insert at Beginning
 
@@ -16,3 +17,17 @@
 - Search an Element
 
 - Count Number of Nodes
+
+- Display the Linked List
+
+- Sorting the Linked List
+
+- Reverse the Linked List
+
+- Update/Modify a Node Value
+
+- Find Maximum Element
+
+- Find Minimum Element
+
+- Delete Entire Linked List (Free Memory)
